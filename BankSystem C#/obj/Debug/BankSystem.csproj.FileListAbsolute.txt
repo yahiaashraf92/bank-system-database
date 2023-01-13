@@ -1,0 +1,38 @@
+D:\university\year 2\2nd term\database\project\BankSystem\bin\Debug\BankSystem.exe.config
+D:\university\year 2\2nd term\database\project\BankSystem\bin\Debug\BankSystem.exe
+D:\university\year 2\2nd term\database\project\BankSystem\bin\Debug\BankSystem.pdb
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.csproj.SuggestedBindingRedirects.cache
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form2.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.cache
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.exe
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.pdb
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form3.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form4.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form5.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form6.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form7.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form8.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.Form9.resources
+D:\university\year 2\2nd term\database\project\BankSystem\obj\Debug\BankSystem.menu.resources
+C:\Users\lenovo\Desktop\BankSystem C#\bin\Debug\BankSystem.exe.config
+C:\Users\lenovo\Desktop\BankSystem C#\bin\Debug\BankSystem.exe
+C:\Users\lenovo\Desktop\BankSystem C#\bin\Debug\BankSystem.pdb
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.menu.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.inquiry.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.Cutomer.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.admin.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.Branch.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.Employee.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.loan.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.loan_request.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.loan_accept.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.exe
+C:\Users\lenovo\Desktop\BankSystem C#\obj\Debug\BankSystem.pdb
